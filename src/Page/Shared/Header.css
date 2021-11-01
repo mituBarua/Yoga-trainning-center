@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300;400;500;600;700&display=swap');
+
+.custom-nav a{
+  margin: 5px 10px;
+  font-family: 'Noto Sans Mono', monospace;
+}
+.user-name{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user-name a {
+  text-decoration: none;
+  color: #b02a37!important;
+  font-size: 16px;
+  font-weight: 500;
+}

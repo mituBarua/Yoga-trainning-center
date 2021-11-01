@@ -1,0 +1,31 @@
+
+.about {
+    margin-top:100px;
+}
+.about-desc{
+    text-align: left;
+}
+
+.about-desc h2{
+   margin: 20px 0;
+}
+.about-btn{
+    margin: 20px;
+}
+.aboutBg{
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    background-image: url('../../images/ab.jpg');
+}
+.aboutBg h5{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 91%;
+    color: #dc3545;
+}
+.about img{
+    width: 90%;
+}

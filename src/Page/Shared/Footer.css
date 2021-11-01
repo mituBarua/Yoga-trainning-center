@@ -1,0 +1,17 @@
+.web-footer{
+    background-color: #343434;
+    color: white; 
+     /* background-image: url(https://demo.moxcreative.com/nada/wp-content/uploads/sites/50/2021/06/acoustic-guitar-isolated-on-black.jpg); */
+    opacity: 0.75;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+}
+.web-footer img {
+    width: 100%;
+}
+.social .social-icon {
+    font-size: 25px;
+    margin: 5px 10px;
+}

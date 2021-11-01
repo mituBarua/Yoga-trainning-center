@@ -1,0 +1,24 @@
+.custom-card .card-des{
+    text-align: left ;
+}
+.type{
+    color: #f46150;
+    text-transform: uppercase;
+}
+.price{
+    position: absolute;
+    top: 125px;
+    right: 15px;
+    bottom: 0;
+    background-color: black;
+    bottom: 0;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 19px;
+}

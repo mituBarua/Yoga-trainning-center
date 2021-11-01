@@ -1,0 +1,13 @@
+.contact{
+    margin-top: 70px;
+}
+.contact img{
+  width: 100%;
+} 
+.contact-form .form-label{
+    font-weight: bold;
+    color: #dc3545;
+}
+.form-ct{
+    text-align: left;
+}

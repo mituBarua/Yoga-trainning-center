@@ -1,0 +1,40 @@
+{
+    "serviceDetails": [
+        {
+            "id": "1",
+            "name": "Jivamukti Yoga",
+            "img":"https://i.ibb.co/G07VzGg/jivamukti-Yoga.jpg",
+            "desc": "Formerly known as Jivamukti Yoga Berlin, our two yoga studios in Mitte and Kreuzberg have been independent Jivamukti Yoga schools since 2009 and 2011 respectively, offering, at (pre-Corona) times, up to 150 yoga classes a week. The vast majority of these classes have been Jivamukti Yoga classes, and the vast majority of our teachers have been Jivamukti Yoga teachers, some of the best-trained and most experienced out there."
+        },
+        {
+            "id": "2",
+            "name": "Bikram Yoga",
+            "img":"https://i.ibb.co/yVdGvS6/bikram-Yoga.jpg",
+            "desc": "Bikram is to yoga what Tae Bo is to kickboxing. Like Billy Blanks, Bikram Choudhury took a long-existing practice and modified it to create a uniquely packaged fitness franchise. (FYI, you may have caught wind of some sexual allegations swirling around about Choudhury, so there's that. But this style of super-hot yoga is still commonly referred to as Bikram. "
+        },
+        {
+            "id": "3",
+            "name": "Hatha Yoga",
+            "img":"https://i.ibb.co/wQYV03z/hatha-Yoga.jpg",
+            "desc": "Hatha yoga is the branch of yoga that typically comes to mind when you think of yoga in general terms. The practice involves breath, body, and mind, and classes are usually 45 minutes to 90 minutes of breathing, yoga poses, and meditation.Yoga began in India around for 2,000 years ago as a series of spiritual breathing exercises. The term Hatha was first recorded in the 11th century, but it wasn't until the late 19th century that it came to America, gaining mainstream popularity in the 1960s."
+        },
+        {
+            "id": "4",
+            "name": "Ashtanga Yoga",
+            "img":"https://i.ibb.co/fQ5kpgm/Ashtanga-Yoga.jpg",
+            "desc": "Ashtanga is a vigorous and demanding physical practice. Maintaining a daily routine of the 'primary series,' as the sequence of asanas is called, requires discipline and dedication as well as an entire overhaul of one's lifestyle. One must keep mind and body clean, otherwise it is not possible to muster the dharana (concentrated focus) required to do the asanas. For example, you cannot stay up late at night and still manage your practice because your physical and mental strength will not be enough. "
+        },
+        {
+            "id": "5",
+            "name": "Pranayama Yoga",
+            "img":"https://i.ibb.co/HBLJrjD/Ashtanga-Yoga2.png",
+            "desc": "'Pranayama is control of Breath'. 'Prana' is Breath or vital energy in the body. On subtle levels prana represents the pranic energy responsible for life or life force, and yama means control. So Pranayama is Control of Breath.One can control the rhythms of pranic energy with pranayama and achieve healthy body and mind. Patanjali in his text of Yoga Sutras mentioned pranayama as means of attaining higher states of awareness, he mentions the holding of breath as important practice of reaching Samadhi. Hatha Yoga also talks about 8 types of pranayama which will make the body and mind healthy."
+        },
+        {
+            "id": "6",
+            "name": "Ashtanga Yoga",
+            "img":"https://i.ibb.co/fQ5kpgm/Ashtanga-Yoga.jpg",
+            "desc": "Ashtanga yoga is a system of yoga recorded by the sage Vamana Rishi in the Yoga Korunta, an ancient manuscript 'said to contain lists of many different groupings of asanas, as well as highly original teachings on vinyasa, drishti, bandhas, mudras, and philosophy' (Jois 2002 xv). The text of the Yoga Korunta 'was imparted to Sri T. Krishnamacharya in the early 1900's by his Guru Rama Mohan Brahmachari, and was later passed down to Pattabhi Jois during the duration of his studies with Krishnamacharya, beginning in 1927' ('Ashtanga Yoga'). Since 1948, Pattabhi Jois has been teaching Ashtanga yoga from his yoga shala, the Ashtanga Yoga Research Institute (Jois 2002 xvi), according to the sacred tradition of Guru Parampara [disciplic succession] (Jois 2003 12)."
+        }
+    ]
+}

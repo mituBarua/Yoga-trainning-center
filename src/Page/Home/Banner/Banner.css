@@ -1,0 +1,21 @@
+.custom-carousel img{
+  height: 85vh;
+} 
+.custom-carousel .carousel-caption {
+    top: 150px;
+  }
+.custom-carousel .carousel-caption h1{
+    font-size: 70px;
+}
+.custom-carousel .carousel-caption p{
+    font-size: 25px;
+}
+.carousel-indicators{
+    display: none;
+}
+@media only screen and (max-width:688px) {
+  .custom-carousel .carousel-caption h1{
+    font-size: 50px;
+}
+
+}

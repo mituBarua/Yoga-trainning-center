@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "name": "Jivamukti Yoga",
+        "img":"https://i.ibb.co/G07VzGg/jivamukti-Yoga.jpg",
+        "type": "Basic",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$79"
+    },
+    {
+        "id": "2",
+        "name": "Bikram Yoga",
+        "img":"https://i.ibb.co/yVdGvS6/bikram-Yoga.jpg",
+        "type": "Super",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$59"
+    },
+   
+    {
+        "id": "3",
+        "name": "Hatha Yoga",
+        "img":"https://i.ibb.co/wQYV03z/hatha-Yoga.jpg",
+        "type": "Classic",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$49"
+    },
+    {
+        "id": "4",
+        "name": "Ashtanga Yoga",
+        "img":"https://i.ibb.co/fQ5kpgm/Ashtanga-Yoga.jpg",
+        "type": "Classic",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$59"
+    },
+    {
+        "id": "5",
+        "name": "Pranayama Yoga",
+        "img":"https://i.ibb.co/HBLJrjD/Ashtanga-Yoga2.png",
+        "type": "Super",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$55"
+    },
+    {
+        "id": "6",
+        "name": "Ashtanga Yoga",
+        "img":"https://i.ibb.co/fQ5kpgm/Ashtanga-Yoga.jpg",
+        "type": "Basic",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layou",
+        "price": "$45"
+    }
+   
+   
+]

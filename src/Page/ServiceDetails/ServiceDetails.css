@@ -1,0 +1,13 @@
+.details img{
+  width: 100%;
+}
+.details h2{
+    font-size: 32px;
+    font-weight: 500;
+    color: #dc3545;
+    margin-top: 40px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
